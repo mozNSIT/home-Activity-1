@@ -10,7 +10,7 @@ Task:
 
 list of completion:
 
--[Shruti Garg](https://github.com/gargshruti30)
+- [Shruti Garg](https://github.com/gargshruti30)
 
    eg:
 
