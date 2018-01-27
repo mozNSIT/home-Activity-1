@@ -11,7 +11,7 @@ Task:
 list of completion:
 
 - [Shruti Garg](https://github.com/gargshruti30)
-
+- [Aryaman Mohapatra](https://github.com/pie-humble-pie)
    eg:
 
    - [Pratyush Goel](https://www.github.com/pratyush1687)
