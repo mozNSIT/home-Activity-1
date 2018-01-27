@@ -11,6 +11,7 @@ Task:
 list of completion:
 
 - [Shruti Garg](https://github.com/gargshruti30)
+- [Sudhanshu Sah](https://github.com/lancelot1337)
 
    eg:
 
