@@ -18,4 +18,6 @@ list of completion:
    - [Geetanshu Gupta](https://www.github.com/geetanshu2502)
    - [Yash Bansal](https://www.github.com/bansalyash)
    -[Avinash Swaminathan]( https://github.com/avinsit123)
-   - [Saurabh Mittal]( https://github.com/mittalsaurab)  
+   - [Saurabh Mittal]( https://github.com/mittalsaurab)
+   
+- [Mohit Yadav](https://github.com/venomousboxer)
