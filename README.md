@@ -15,9 +15,12 @@ list of completion:
 - [Ashish Kushwaha](https://github.com/ashkush21)
 - [Riya](https://github.com/riyak1998)
 - [Avinash Swaminathan]( https://github.com/avinsit123)
+- [Saurabh Mittal]( https://github.com/mittalsaurab)
+- [Aryaman Mohapatra](https://github.com/pie-humble-pie)
 - [Saurabh Mittal]( https://github.com/mittalsaurab)  
 - [Shrey Jain](https://www.github.com/shreyjain711)
 - [Saurabh Mittal]( https://github.com/mittalsaurab)
+
 
    eg:
    - [Pratyush Goel](https://www.github.com/pratyush1687)
