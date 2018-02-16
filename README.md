@@ -10,6 +10,7 @@ Task:
 
 list of completion:
 - [Shruti Garg](https://github.com/gargshruti30)
+- [Sudhanshu Sah](https://github.com/lancelot1337)
 - [Raunak Kondiboyina](https://github.com/RAUNAKKONDIBOYINA)
 - [Nishant Agrawal](https://github.com/nishant0013)
 - [Abhinav Gupta](https://github.com/abhikudo)
